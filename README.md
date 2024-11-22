@@ -6,19 +6,18 @@ This project is part of the Software Development Practice course. It focuses on 
 
 ## Deployment Link 🚀
 
-You can access the live project here: [SW Development Practice restaurant Project](https://sw-dev-prac-2-project-qrfl.vercel.app)
+You can access the live project here: [SW Development Practice restaurant Project]([https://sw-dev-prac-2-project-qrfl.vercel.app](https://sw-dev-prac-proj.vercel.app/)
 
 ## Features ✨
 
 -   User registration and authentication
 -   Booking management system
 -   Service catalog management
--   Shop management
+-   Restaurant management
 
 ## Collaborators 🤝
 
--   [Nontapan Sitthichotlertpakdee](https://github.com/masternonnolnw)
--   [Punyaphat Surakiatkamjorn](https://github.com/punyaphatsura)
+-   [Kongphop Chariyasathapond](https://github.com/emthy0)
 
 ## Tech Stack 🛠️
 
@@ -30,4 +29,4 @@ You can access the live project here: [SW Development Practice restaurant Projec
 | **State Management**   | [Jotai](https://jotai.org/)              |
 | **Authentication**     | [NextAuth.js](https://next-auth.js.org/) |
 | **Database**           | [MongoDB](https://www.mongodb.com/)      |
-| **Testing**            | [Jest](https://jestjs.io/)               |
+
